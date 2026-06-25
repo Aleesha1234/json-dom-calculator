@@ -4,4 +4,4 @@ A simple and responsive calculator built using HTML, CSS, JavaScript, DOM Manipu
 
 ## Screenshot
 
-![Calculator Screenshot](screenshots/calculator.png)
+![Calculator](./screenshots/calculator.png)
